@@ -1,6 +1,6 @@
 # Fashion Recommender System
 
-This project is a Fashion Recommender System that uses a pre-trained ResNet50 model to extract features from images and recommend similar fashion items. The system allows users to upload an image and receive recommendations for similar items based on the uploaded image.
+This project is a Fashion Recommender System that uses a pre-trained ResNet50 model to extract features from images and recommend similar fashion items. The system interacts with user via a streamlit app where users can upload an image of their choice and receive recommendations for 5 most similar items based on the uploaded image.
 
 ## Getting Started
 
